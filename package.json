@@ -55,7 +55,7 @@
         "graphql-tools": "~1.1.0",
         "graphql-type-json": "~0.1.4",
         "inflection": "~1.12.0",
-        "lodash.merge": "~4.6.0",
+        "lodash.merge": "~4.6.2",
         "reify": "~0.12.0"
     },
     "bin": {
