@@ -46,9 +46,9 @@
         "supertest": "~3.0.0"
     },
     "dependencies": {
-        "apollo-client": "~1.2.0",
+        "apollo-client": "~2.0.0",
         "apollo-test-utils": "~0.3.2",
-        "express": "~4.15.3",
+        "express": "~4.16.0",
         "express-graphql": "~0.6.7",
         "graphql": "~0.10.5",
         "graphql-tag": "~2.0.0",
